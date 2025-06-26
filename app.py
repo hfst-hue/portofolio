@@ -58,12 +58,12 @@ def index():
             {
                 'judul': 'Sistem Absensi Karyawan',
                 'gambar': 'project1.jpg',
-                'link': 'https://github.com/hafist/absensi-karyawan'
+                'link': 'https://github.com/hfst-hue/aplikasi-absensi-kerja'
             },
             {
                 'judul': 'Landing Page Jasa Joki Game',
                 'gambar': 'project2.jpg',
-                'link': 'https://github.com/hafist/joki-game'
+                'link': 'https://github.com/hfst-hue/mlbbsite'
             }
         ]
     }
