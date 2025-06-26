@@ -1,0 +1,35 @@
+body {
+  font-family: 'Outfit', sans-serif;
+}
+
+.navbar-nav .nav-link {
+  font-weight: 600;
+  margin-left: 1rem;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.card {
+  transition: all 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.btn-animated {
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-animated:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+  font-size: 0.9rem;
+}

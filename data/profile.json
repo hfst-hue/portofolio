@@ -1,0 +1,15 @@
+{
+  "nama": "Mhd Hafist Akmal",
+  "profesi": "Software Developer & AI Researcher",
+  "bio": "Saya adalah pengembang perangkat lunak yang fokus pada AI dan web development. Berpengalaman dalam pengembangan aplikasi dengan Python, Django, dan Flask.",
+  "keahlian": ["Python", "Django", "Flask", "HTML/CSS", "JavaScript", "AI Research"],
+  "pengalaman": [
+    {"posisi": "Web Developer", "perusahaan": "Tech Studio", "tahun": "2022 - Sekarang"},
+    {"posisi": "Asisten Peneliti", "perusahaan": "Universitas Contoh", "tahun": "2021 - 2022"}
+  ],
+  "pendidikan": "TBSM (Teknik Bisnis Sepeda Motor)  - Smk Sinar Husni (2020 - 2023)",
+  "email": "mhdhafisakmal@gmail.com",
+  "portofolio": [
+    {"judul": "Website Tugas Kuliah", "gambar": "project1.jpg", "link": "#"}
+  ]
+}
